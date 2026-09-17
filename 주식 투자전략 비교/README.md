@@ -108,7 +108,7 @@ NASDAQ-100은 상위 약 10% 선정이라는 취지로 10개 티커를 고정 �
 
 ## 4\. 주요 결과
 
-아래는 NASDAQ, KOSPI 각각 전략에 따른 수익률 그래프 결과이다.
+아래는 NASDAQ(QQQ), KOSPI(069500.KS) 각각 전략에 따른 수익률 그래프 결과이다.
 
 ![나스닥 수익률 그래프](figs/qqq_strategy.png)
 ![코스피 수익률 그래프](figs/kospi_strategy.png)
